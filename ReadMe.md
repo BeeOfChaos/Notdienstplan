@@ -8,7 +8,7 @@
     <img src="res/notdienstIcon_large.bmp " alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Create_Notdiensplan</h3>
+<h3 align="center">Create_Notdienstplan</h3>
 
   <p align="center">
     Programm zum Erstellen eines Notdienstplans für Apotheken auf Basis einer Gruppenliste
@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/BeeOfChaos/Notdienstplan/res/Notdienstplan.png)
+![Screen Shot!](https://github.com/BeeOfChaos/Notdienstplan/res/Notdienstplan.png "Screenshot of an example Notdienstplan")
 
 Erstellen Sie in Sekunden einen druckfertigen Notdienstplan
 
@@ -73,14 +73,14 @@ Bitte vor der Installation vollständig durchlesen
 
 ### Installation
 
-Als Endnutzer:
+**Als Endnutzer:**
 
 1. Download des Programms hier: [https://example.com](https://example.com)
 2. Installieren Sie das Programm
 3. Folgen Sie der Anleitung, die am Ende der Installation geöffnet wird (Alternativ [hier](https://github.com/BeeOfChaos/Notdienstplan/res/ReadMe.rtf) )
 
 
-Zur Bearbeitung/Kompilierung für andere Windows-Versionen:
+**Zur Bearbeitung/Kompilierung für andere Windows-Versionen:**
 
 1. Klonen SIe das Repository
    ```sh
