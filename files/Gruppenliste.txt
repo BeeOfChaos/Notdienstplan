@@ -1,0 +1,20 @@
+A; Apothekenname_1_1; Straße_und_HausNr_1_1; PLZ_und_Ort_1_1; TelefonNr_1_1; Apothekenname_1_2; Straße_und_HausNr_1_2; PLZ_und_Ort_1_2; TelefonNr_1_2; Apothekenname_1_3; Straße_und_HausNr_1_3; PLZ_und_Ort_1_3; TelefonNr_1_3; 
+B; Apothekenname_2_1; Straße_und_HausNr_2_1; PLZ_und_Ort_2_1; TelefonNr_2_1; Apothekenname_2_2; Straße_und_HausNr_2_2; PLZ_und_Ort_2_2; TelefonNr_2_2; Apothekenname_2_3; Straße_und_HausNr_2_3; PLZ_und_Ort_2_3; ; Apothekenname_2_4; Straße_und_HausNr_2_4; PLZ_und_Ort_2_4; TelefonNr_2_4; 
+C; Apothekenname_3_1; Straße_und_HausNr_3_1; PLZ_und_Ort_3_1; TelefonNr_3_1; Apothekenname_3_2; Straße_und_HausNr_3_2; PLZ_und_Ort_3_2; TelefonNr_3_2; Apothekenname_3_3; Straße_und_HausNr_3_3; PLZ_und_Ort_3_3; TelefonNr_3_3; ;;;;
+D; Apothekenname_4_1; Straße_und_HausNr_4_1; PLZ_und_Ort_4_1; TelefonNr_4_1; Apothekenname_4_2; Straße_und_HausNr_4_2; PLZ_und_Ort_4_2; TelefonNr_4_2; Apothekenname_4_3; Straße_und_HausNr_4_3; PLZ_und_Ort_4_3; TelefonNr_4_3; Apothekenname_4_4; ; PLZ_und_Ort_4_4; TelefonNr_4_4; 
+E; Apothekenname_5_1; Straße_und_HausNr_5_1; PLZ_und_Ort_5_1; TelefonNr_5_1; Apothekenname_5_2; Straße_und_HausNr_5_2; PLZ_und_Ort_5_2; TelefonNr_5_2; Apothekenname_5_3; Straße_und_HausNr_5_3; PLZ_und_Ort_5_3; TelefonNr_5_3; Apothekenname_5_4; Straße_und_HausNr_5_4; PLZ_und_Ort_5_4; TelefonNr_5_4; 
+
+F; Apothekenname_6_1; Straße_und_HausNr_6_1; PLZ_und_Ort_6_1; TelefonNr_6_1; Apothekenname_6_2; Straße_und_HausNr_6_2; PLZ_und_Ort_6_2; TelefonNr_6_2; Apothekenname_6_3; Straße_und_HausNr_6_3; PLZ_und_Ort_6_3; TelefonNr_6_3; Apothekenname_6_4; Straße_und_HausNr_6_4; PLZ_und_Ort_6_4; TelefonNr_6_4; 
+G; Apothekenname_7_1; Straße_und_HausNr_7_1; PLZ_und_Ort_7_1; TelefonNr_7_1; Apothekenname_7_2; Straße_und_HausNr_7_2; PLZ_und_Ort_7_2; TelefonNr_7_2; Apothekenname_7_3; Straße_und_HausNr_7_3; PLZ_und_Ort_7_3; TelefonNr_7_3; Apothekenname_7_4; Straße_und_HausNr_7_4; PLZ_und_Ort_7_4; TelefonNr_7_4; 
+H; Apothekenname_8_1; Straße_und_HausNr_8_1; PLZ_und_Ort_8_1; TelefonNr_8_1; Apothekenname_8_2; Straße_und_HausNr_8_2; PLZ_und_Ort_8_2; TelefonNr_8_2; Apothekenname_8_3; Straße_und_HausNr_8_3; PLZ_und_Ort_8_3; TelefonNr_8_3; Apothekenname_8_4; Straße_und_HausNr_8_4; PLZ_und_Ort_8_4; TelefonNr_8_4; 
+I; Apothekenname_9_1; Straße_und_HausNr_9_1; PLZ_und_Ort_9_1; TelefonNr_9_1; Apothekenname_9_2; Straße_und_HausNr_9_2; PLZ_und_Ort_9_2; TelefonNr_9_2; Apothekenname_9_3; Straße_und_HausNr_9_3; PLZ_und_Ort_9_3; TelefonNr_9_3; Apothekenname_9_4; Straße_und_HausNr_9_4; PLZ_und_Ort_9_4; TelefonNr_9_4; 
+J; Apothekenname_10_1; Straße_und_HausNr_10_1; PLZ_und_Ort_10_1; TelefonNr_10_1; Apothekenname_10_2; Straße_und_HausNr_10_2; PLZ_und_Ort_10_2; TelefonNr_10_2; Apothekenname_10_3; Straße_und_HausNr_10_3; PLZ_und_Ort_10_3; TelefonNr_10_3; Apothekenname_10_4; Straße_und_HausNr_10_4; PLZ_und_Ort_10_4; TelefonNr_10_4; 
+
+K; Apothekenname_11_1; Straße_und_HausNr_11_1; PLZ_und_Ort_11_1; TelefonNr_11_1; Apothekenname_11_2; Straße_und_HausNr_11_2; PLZ_und_Ort_11_2; TelefonNr_11_2; Apothekenname_11_3; Straße_und_HausNr_11_3; PLZ_und_Ort_11_3; TelefonNr_11_3; Apothekenname_11_4; Straße_und_HausNr_11_4; PLZ_und_Ort_11_4; TelefonNr_11_4; 
+L; Apothekenname_12_1; Straße_und_HausNr_12_1; PLZ_und_Ort_12_1; TelefonNr_12_1; Apothekenname_12_2; Straße_und_HausNr_12_2; PLZ_und_Ort_12_2; TelefonNr_12_2; Apothekenname_12_3; Straße_und_HausNr_12_3; PLZ_und_Ort_12_3; TelefonNr_12_3; Apothekenname_12_4; Straße_und_HausNr_12_4; PLZ_und_Ort_12_4; TelefonNr_12_4; 
+M; Apothekenname_13_1; Straße_und_HausNr_13_1; PLZ_und_Ort_13_1; TelefonNr_13_1; Apothekenname_13_2; Straße_und_HausNr_13_2; PLZ_und_Ort_13_2; TelefonNr_13_2; Apothekenname_13_3; Straße_und_HausNr_13_3; PLZ_und_Ort_13_3; TelefonNr_13_3; Apothekenname_13_4; Straße_und_HausNr_13_4; PLZ_und_Ort_13_4; TelefonNr_13_4; 
+
+Saturday; Apothekenname_S_1; TelefonNr_S_1; Straße_und_HausNr_S_1; PLZ_und_Ort_S_1; Apothekenname_S_2; TelefonNr_S_2; Straße_und_HausNr_S_2; PLZ_und_Ort_S_2;
+
+
+
